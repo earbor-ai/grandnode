@@ -1,0 +1,12 @@
+C:\Users\kishore\source\repos\grandnode\grandnode2\src\Core\Grand.SharedKernel\bin\Debug\net5.0\Grand.SharedKernel.deps.json
+C:\Users\kishore\source\repos\grandnode\grandnode2\src\Core\Grand.SharedKernel\bin\Debug\net5.0\Grand.SharedKernel.dll
+C:\Users\kishore\source\repos\grandnode\grandnode2\src\Core\Grand.SharedKernel\bin\Debug\net5.0\ref\Grand.SharedKernel.dll
+C:\Users\kishore\source\repos\grandnode\grandnode2\src\Core\Grand.SharedKernel\bin\Debug\net5.0\Grand.SharedKernel.pdb
+C:\Users\kishore\source\repos\grandnode\grandnode2\src\Core\Grand.SharedKernel\obj\Debug\net5.0\Grand.SharedKernel.csproj.AssemblyReference.cache
+C:\Users\kishore\source\repos\grandnode\grandnode2\src\Core\Grand.SharedKernel\obj\Debug\net5.0\Grand.SharedKernel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kishore\source\repos\grandnode\grandnode2\src\Core\Grand.SharedKernel\obj\Debug\net5.0\Grand.SharedKernel.AssemblyInfoInputs.cache
+C:\Users\kishore\source\repos\grandnode\grandnode2\src\Core\Grand.SharedKernel\obj\Debug\net5.0\Grand.SharedKernel.AssemblyInfo.cs
+C:\Users\kishore\source\repos\grandnode\grandnode2\src\Core\Grand.SharedKernel\obj\Debug\net5.0\Grand.SharedKernel.csproj.CoreCompileInputs.cache
+C:\Users\kishore\source\repos\grandnode\grandnode2\src\Core\Grand.SharedKernel\obj\Debug\net5.0\Grand.SharedKernel.dll
+C:\Users\kishore\source\repos\grandnode\grandnode2\src\Core\Grand.SharedKernel\obj\Debug\net5.0\ref\Grand.SharedKernel.dll
+C:\Users\kishore\source\repos\grandnode\grandnode2\src\Core\Grand.SharedKernel\obj\Debug\net5.0\Grand.SharedKernel.pdb

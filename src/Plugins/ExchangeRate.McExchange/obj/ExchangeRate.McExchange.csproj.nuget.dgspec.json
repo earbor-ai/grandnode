@@ -1,0 +1,1347 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\kishore\\source\\repos\\grandnode\\grandnode2\\src\\Plugins\\ExchangeRate.McExchange\\ExchangeRate.McExchange.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\kishore\\source\\repos\\grandnode\\grandnode2\\src\\Business\\Grand.Business.Authentication\\Grand.Business.Authentication.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\kishore\\source\\repos\\grandnode\\grandnode2\\src\\Business\\Grand.Business.Authentication\\Grand.Business.Authentication.csproj",
+        "projectName": "Grand.Business.Authentication",
+        "projectPath": "C:\\Users\\kishore\\source\\repos\\grandnode\\grandnode2\\src\\Business\\Grand.Business.Authentication\\Grand.Business.Authentication.csproj",
+        "packagesPath": "C:\\Users\\kishore\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\kishore\\source\\repos\\grandnode\\grandnode2\\src\\Business\\Grand.Business.Authentication\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\kishore\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\kishore\\source\\repos\\grandnode\\grandnode2\\src\\Business\\Grand.Business.Customers\\Grand.Business.Customers.csproj": {
+                "projectPath": "C:\\Users\\kishore\\source\\repos\\grandnode\\grandnode2\\src\\Business\\Grand.Business.Customers\\Grand.Business.Customers.csproj"
+              },
+              "C:\\Users\\kishore\\source\\repos\\grandnode\\grandnode2\\src\\Core\\Grand.Domain\\Grand.Domain.csproj": {
+                "projectPath": "C:\\Users\\kishore\\source\\repos\\grandnode\\grandnode2\\src\\Core\\Grand.Domain\\Grand.Domain.csproj"
+              },
+              "C:\\Users\\kishore\\source\\repos\\grandnode\\grandnode2\\src\\Core\\Grand.Infrastructure\\Grand.Infrastructure.csproj": {
+                "projectPath": "C:\\Users\\kishore\\source\\repos\\grandnode\\grandnode2\\src\\Core\\Grand.Infrastructure\\Grand.Infrastructure.csproj"
+              },
+              "C:\\Users\\kishore\\source\\repos\\grandnode\\grandnode2\\src\\Core\\Grand.SharedKernel\\Grand.SharedKernel.csproj": {
+                "projectPath": "C:\\Users\\kishore\\source\\repos\\grandnode\\grandnode2\\src\\Core\\Grand.SharedKernel\\Grand.SharedKernel.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[5.0.0, 5.0.0]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.403\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\kishore\\source\\repos\\grandnode\\grandnode2\\src\\Business\\Grand.Business.Catalog\\Grand.Business.Catalog.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\kishore\\source\\repos\\grandnode\\grandnode2\\src\\Business\\Grand.Business.Catalog\\Grand.Business.Catalog.csproj",
+        "projectName": "Grand.Business.Catalog",
+        "projectPath": "C:\\Users\\kishore\\source\\repos\\grandnode\\grandnode2\\src\\Business\\Grand.Business.Catalog\\Grand.Business.Catalog.csproj",
+        "packagesPath": "C:\\Users\\kishore\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\kishore\\source\\repos\\grandnode\\grandnode2\\src\\Business\\Grand.Business.Catalog\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\kishore\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\kishore\\source\\repos\\grandnode\\grandnode2\\src\\Business\\Grand.Business.Common\\Grand.Business.Common.csproj": {
+                "projectPath": "C:\\Users\\kishore\\source\\repos\\grandnode\\grandnode2\\src\\Business\\Grand.Business.Common\\Grand.Business.Common.csproj"
+              },
+              "C:\\Users\\kishore\\source\\repos\\grandnode\\grandnode2\\src\\Business\\Grand.Business.Storage\\Grand.Business.Storage.csproj": {
+                "projectPath": "C:\\Users\\kishore\\source\\repos\\grandnode\\grandnode2\\src\\Business\\Grand.Business.Storage\\Grand.Business.Storage.csproj"
+              },
+              "C:\\Users\\kishore\\source\\repos\\grandnode\\grandnode2\\src\\Core\\Grand.Domain\\Grand.Domain.csproj": {
+                "projectPath": "C:\\Users\\kishore\\source\\repos\\grandnode\\grandnode2\\src\\Core\\Grand.Domain\\Grand.Domain.csproj"
+              },
+              "C:\\Users\\kishore\\source\\repos\\grandnode\\grandnode2\\src\\Core\\Grand.Infrastructure\\Grand.Infrastructure.csproj": {
+                "projectPath": "C:\\Users\\kishore\\source\\repos\\grandnode\\grandnode2\\src\\Core\\Grand.Infrastructure\\Grand.Infrastructure.csproj"
+              },
+              "C:\\Users\\kishore\\source\\repos\\grandnode\\grandnode2\\src\\Core\\Grand.SharedKernel\\Grand.SharedKernel.csproj": {
+                "projectPath": "C:\\Users\\kishore\\source\\repos\\grandnode\\grandnode2\\src\\Core\\Grand.SharedKernel\\Grand.SharedKernel.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[5.0.0, 5.0.0]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.403\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\kishore\\source\\repos\\grandnode\\grandnode2\\src\\Business\\Grand.Business.Checkout\\Grand.Business.Checkout.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\kishore\\source\\repos\\grandnode\\grandnode2\\src\\Business\\Grand.Business.Checkout\\Grand.Business.Checkout.csproj",
+        "projectName": "Grand.Business.Checkout",
+        "projectPath": "C:\\Users\\kishore\\source\\repos\\grandnode\\grandnode2\\src\\Business\\Grand.Business.Checkout\\Grand.Business.Checkout.csproj",
+        "packagesPath": "C:\\Users\\kishore\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\kishore\\source\\repos\\grandnode\\grandnode2\\src\\Business\\Grand.Business.Checkout\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\kishore\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\kishore\\source\\repos\\grandnode\\grandnode2\\src\\Business\\Grand.Business.Catalog\\Grand.Business.Catalog.csproj": {
+                "projectPath": "C:\\Users\\kishore\\source\\repos\\grandnode\\grandnode2\\src\\Business\\Grand.Business.Catalog\\Grand.Business.Catalog.csproj"
+              },
+              "C:\\Users\\kishore\\source\\repos\\grandnode\\grandnode2\\src\\Business\\Grand.Business.Common\\Grand.Business.Common.csproj": {
+                "projectPath": "C:\\Users\\kishore\\source\\repos\\grandnode\\grandnode2\\src\\Business\\Grand.Business.Common\\Grand.Business.Common.csproj"
+              },
+              "C:\\Users\\kishore\\source\\repos\\grandnode\\grandnode2\\src\\Business\\Grand.Business.Customers\\Grand.Business.Customers.csproj": {
+                "projectPath": "C:\\Users\\kishore\\source\\repos\\grandnode\\grandnode2\\src\\Business\\Grand.Business.Customers\\Grand.Business.Customers.csproj"
+              },
+              "C:\\Users\\kishore\\source\\repos\\grandnode\\grandnode2\\src\\Business\\Grand.Business.Messages\\Grand.Business.Messages.csproj": {
+                "projectPath": "C:\\Users\\kishore\\source\\repos\\grandnode\\grandnode2\\src\\Business\\Grand.Business.Messages\\Grand.Business.Messages.csproj"
+              },
+              "C:\\Users\\kishore\\source\\repos\\grandnode\\grandnode2\\src\\Core\\Grand.Domain\\Grand.Domain.csproj": {
+                "projectPath": "C:\\Users\\kishore\\source\\repos\\grandnode\\grandnode2\\src\\Core\\Grand.Domain\\Grand.Domain.csproj"
+              },
+              "C:\\Users\\kishore\\source\\repos\\grandnode\\grandnode2\\src\\Core\\Grand.Infrastructure\\Grand.Infrastructure.csproj": {
+                "projectPath": "C:\\Users\\kishore\\source\\repos\\grandnode\\grandnode2\\src\\Core\\Grand.Infrastructure\\Grand.Infrastructure.csproj"
+              },
+              "C:\\Users\\kishore\\source\\repos\\grandnode\\grandnode2\\src\\Core\\Grand.SharedKernel\\Grand.SharedKernel.csproj": {
+                "projectPath": "C:\\Users\\kishore\\source\\repos\\grandnode\\grandnode2\\src\\Core\\Grand.SharedKernel\\Grand.SharedKernel.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[5.0.0, 5.0.0]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.403\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\kishore\\source\\repos\\grandnode\\grandnode2\\src\\Business\\Grand.Business.Cms\\Grand.Business.Cms.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\kishore\\source\\repos\\grandnode\\grandnode2\\src\\Business\\Grand.Business.Cms\\Grand.Business.Cms.csproj",
+        "projectName": "Grand.Business.Cms",
+        "projectPath": "C:\\Users\\kishore\\source\\repos\\grandnode\\grandnode2\\src\\Business\\Grand.Business.Cms\\Grand.Business.Cms.csproj",
+        "packagesPath": "C:\\Users\\kishore\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\kishore\\source\\repos\\grandnode\\grandnode2\\src\\Business\\Grand.Business.Cms\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\kishore\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\kishore\\source\\repos\\grandnode\\grandnode2\\src\\Business\\Grand.Business.Common\\Grand.Business.Common.csproj": {
+                "projectPath": "C:\\Users\\kishore\\source\\repos\\grandnode\\grandnode2\\src\\Business\\Grand.Business.Common\\Grand.Business.Common.csproj"
+              },
+              "C:\\Users\\kishore\\source\\repos\\grandnode\\grandnode2\\src\\Core\\Grand.Domain\\Grand.Domain.csproj": {
+                "projectPath": "C:\\Users\\kishore\\source\\repos\\grandnode\\grandnode2\\src\\Core\\Grand.Domain\\Grand.Domain.csproj"
+              },
+              "C:\\Users\\kishore\\source\\repos\\grandnode\\grandnode2\\src\\Core\\Grand.Infrastructure\\Grand.Infrastructure.csproj": {
+                "projectPath": "C:\\Users\\kishore\\source\\repos\\grandnode\\grandnode2\\src\\Core\\Grand.Infrastructure\\Grand.Infrastructure.csproj"
+              },
+              "C:\\Users\\kishore\\source\\repos\\grandnode\\grandnode2\\src\\Core\\Grand.SharedKernel\\Grand.SharedKernel.csproj": {
+                "projectPath": "C:\\Users\\kishore\\source\\repos\\grandnode\\grandnode2\\src\\Core\\Grand.SharedKernel\\Grand.SharedKernel.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[5.0.0, 5.0.0]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.403\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\kishore\\source\\repos\\grandnode\\grandnode2\\src\\Business\\Grand.Business.Common\\Grand.Business.Common.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\kishore\\source\\repos\\grandnode\\grandnode2\\src\\Business\\Grand.Business.Common\\Grand.Business.Common.csproj",
+        "projectName": "Grand.Business.Common",
+        "projectPath": "C:\\Users\\kishore\\source\\repos\\grandnode\\grandnode2\\src\\Business\\Grand.Business.Common\\Grand.Business.Common.csproj",
+        "packagesPath": "C:\\Users\\kishore\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\kishore\\source\\repos\\grandnode\\grandnode2\\src\\Business\\Grand.Business.Common\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\kishore\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\kishore\\source\\repos\\grandnode\\grandnode2\\src\\Core\\Grand.Domain\\Grand.Domain.csproj": {
+                "projectPath": "C:\\Users\\kishore\\source\\repos\\grandnode\\grandnode2\\src\\Core\\Grand.Domain\\Grand.Domain.csproj"
+              },
+              "C:\\Users\\kishore\\source\\repos\\grandnode\\grandnode2\\src\\Core\\Grand.Infrastructure\\Grand.Infrastructure.csproj": {
+                "projectPath": "C:\\Users\\kishore\\source\\repos\\grandnode\\grandnode2\\src\\Core\\Grand.Infrastructure\\Grand.Infrastructure.csproj"
+              },
+              "C:\\Users\\kishore\\source\\repos\\grandnode\\grandnode2\\src\\Core\\Grand.SharedKernel\\Grand.SharedKernel.csproj": {
+                "projectPath": "C:\\Users\\kishore\\source\\repos\\grandnode\\grandnode2\\src\\Core\\Grand.SharedKernel\\Grand.SharedKernel.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Google.Apis": {
+              "target": "Package",
+              "version": "[1.55.0, )"
+            },
+            "Google.Apis.AnalyticsReporting.v4": {
+              "target": "Package",
+              "version": "[1.55.0.2484, )"
+            },
+            "MaxMind.GeoIP2": {
+              "target": "Package",
+              "version": "[4.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[5.0.0, 5.0.0]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.403\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\kishore\\source\\repos\\grandnode\\grandnode2\\src\\Business\\Grand.Business.Customers\\Grand.Business.Customers.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\kishore\\source\\repos\\grandnode\\grandnode2\\src\\Business\\Grand.Business.Customers\\Grand.Business.Customers.csproj",
+        "projectName": "Grand.Business.Customers",
+        "projectPath": "C:\\Users\\kishore\\source\\repos\\grandnode\\grandnode2\\src\\Business\\Grand.Business.Customers\\Grand.Business.Customers.csproj",
+        "packagesPath": "C:\\Users\\kishore\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\kishore\\source\\repos\\grandnode\\grandnode2\\src\\Business\\Grand.Business.Customers\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\kishore\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\kishore\\source\\repos\\grandnode\\grandnode2\\src\\Business\\Grand.Business.Common\\Grand.Business.Common.csproj": {
+                "projectPath": "C:\\Users\\kishore\\source\\repos\\grandnode\\grandnode2\\src\\Business\\Grand.Business.Common\\Grand.Business.Common.csproj"
+              },
+              "C:\\Users\\kishore\\source\\repos\\grandnode\\grandnode2\\src\\Core\\Grand.Domain\\Grand.Domain.csproj": {
+                "projectPath": "C:\\Users\\kishore\\source\\repos\\grandnode\\grandnode2\\src\\Core\\Grand.Domain\\Grand.Domain.csproj"
+              },
+              "C:\\Users\\kishore\\source\\repos\\grandnode\\grandnode2\\src\\Core\\Grand.Infrastructure\\Grand.Infrastructure.csproj": {
+                "projectPath": "C:\\Users\\kishore\\source\\repos\\grandnode\\grandnode2\\src\\Core\\Grand.Infrastructure\\Grand.Infrastructure.csproj"
+              },
+              "C:\\Users\\kishore\\source\\repos\\grandnode\\grandnode2\\src\\Core\\Grand.SharedKernel\\Grand.SharedKernel.csproj": {
+                "projectPath": "C:\\Users\\kishore\\source\\repos\\grandnode\\grandnode2\\src\\Core\\Grand.SharedKernel\\Grand.SharedKernel.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[5.0.0, 5.0.0]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.403\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\kishore\\source\\repos\\grandnode\\grandnode2\\src\\Business\\Grand.Business.Marketing\\Grand.Business.Marketing.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\kishore\\source\\repos\\grandnode\\grandnode2\\src\\Business\\Grand.Business.Marketing\\Grand.Business.Marketing.csproj",
+        "projectName": "Grand.Business.Marketing",
+        "projectPath": "C:\\Users\\kishore\\source\\repos\\grandnode\\grandnode2\\src\\Business\\Grand.Business.Marketing\\Grand.Business.Marketing.csproj",
+        "packagesPath": "C:\\Users\\kishore\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\kishore\\source\\repos\\grandnode\\grandnode2\\src\\Business\\Grand.Business.Marketing\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\kishore\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\kishore\\source\\repos\\grandnode\\grandnode2\\src\\Business\\Grand.Business.Checkout\\Grand.Business.Checkout.csproj": {
+                "projectPath": "C:\\Users\\kishore\\source\\repos\\grandnode\\grandnode2\\src\\Business\\Grand.Business.Checkout\\Grand.Business.Checkout.csproj"
+              },
+              "C:\\Users\\kishore\\source\\repos\\grandnode\\grandnode2\\src\\Business\\Grand.Business.Common\\Grand.Business.Common.csproj": {
+                "projectPath": "C:\\Users\\kishore\\source\\repos\\grandnode\\grandnode2\\src\\Business\\Grand.Business.Common\\Grand.Business.Common.csproj"
+              },
+              "C:\\Users\\kishore\\source\\repos\\grandnode\\grandnode2\\src\\Business\\Grand.Business.Messages\\Grand.Business.Messages.csproj": {
+                "projectPath": "C:\\Users\\kishore\\source\\repos\\grandnode\\grandnode2\\src\\Business\\Grand.Business.Messages\\Grand.Business.Messages.csproj"
+              },
+              "C:\\Users\\kishore\\source\\repos\\grandnode\\grandnode2\\src\\Core\\Grand.Domain\\Grand.Domain.csproj": {
+                "projectPath": "C:\\Users\\kishore\\source\\repos\\grandnode\\grandnode2\\src\\Core\\Grand.Domain\\Grand.Domain.csproj"
+              },
+              "C:\\Users\\kishore\\source\\repos\\grandnode\\grandnode2\\src\\Core\\Grand.Infrastructure\\Grand.Infrastructure.csproj": {
+                "projectPath": "C:\\Users\\kishore\\source\\repos\\grandnode\\grandnode2\\src\\Core\\Grand.Infrastructure\\Grand.Infrastructure.csproj"
+              },
+              "C:\\Users\\kishore\\source\\repos\\grandnode\\grandnode2\\src\\Core\\Grand.SharedKernel\\Grand.SharedKernel.csproj": {
+                "projectPath": "C:\\Users\\kishore\\source\\repos\\grandnode\\grandnode2\\src\\Core\\Grand.SharedKernel\\Grand.SharedKernel.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[5.0.0, 5.0.0]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.403\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\kishore\\source\\repos\\grandnode\\grandnode2\\src\\Business\\Grand.Business.Messages\\Grand.Business.Messages.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\kishore\\source\\repos\\grandnode\\grandnode2\\src\\Business\\Grand.Business.Messages\\Grand.Business.Messages.csproj",
+        "projectName": "Grand.Business.Messages",
+        "projectPath": "C:\\Users\\kishore\\source\\repos\\grandnode\\grandnode2\\src\\Business\\Grand.Business.Messages\\Grand.Business.Messages.csproj",
+        "packagesPath": "C:\\Users\\kishore\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\kishore\\source\\repos\\grandnode\\grandnode2\\src\\Business\\Grand.Business.Messages\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\kishore\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\kishore\\source\\repos\\grandnode\\grandnode2\\src\\Business\\Grand.Business.Common\\Grand.Business.Common.csproj": {
+                "projectPath": "C:\\Users\\kishore\\source\\repos\\grandnode\\grandnode2\\src\\Business\\Grand.Business.Common\\Grand.Business.Common.csproj"
+              },
+              "C:\\Users\\kishore\\source\\repos\\grandnode\\grandnode2\\src\\Business\\Grand.Business.Storage\\Grand.Business.Storage.csproj": {
+                "projectPath": "C:\\Users\\kishore\\source\\repos\\grandnode\\grandnode2\\src\\Business\\Grand.Business.Storage\\Grand.Business.Storage.csproj"
+              },
+              "C:\\Users\\kishore\\source\\repos\\grandnode\\grandnode2\\src\\Core\\Grand.Domain\\Grand.Domain.csproj": {
+                "projectPath": "C:\\Users\\kishore\\source\\repos\\grandnode\\grandnode2\\src\\Core\\Grand.Domain\\Grand.Domain.csproj"
+              },
+              "C:\\Users\\kishore\\source\\repos\\grandnode\\grandnode2\\src\\Core\\Grand.Infrastructure\\Grand.Infrastructure.csproj": {
+                "projectPath": "C:\\Users\\kishore\\source\\repos\\grandnode\\grandnode2\\src\\Core\\Grand.Infrastructure\\Grand.Infrastructure.csproj"
+              },
+              "C:\\Users\\kishore\\source\\repos\\grandnode\\grandnode2\\src\\Core\\Grand.SharedKernel\\Grand.SharedKernel.csproj": {
+                "projectPath": "C:\\Users\\kishore\\source\\repos\\grandnode\\grandnode2\\src\\Core\\Grand.SharedKernel\\Grand.SharedKernel.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "MailKit": {
+              "target": "Package",
+              "version": "[2.15.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[5.0.0, 5.0.0]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.403\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\kishore\\source\\repos\\grandnode\\grandnode2\\src\\Business\\Grand.Business.Storage\\Grand.Business.Storage.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\kishore\\source\\repos\\grandnode\\grandnode2\\src\\Business\\Grand.Business.Storage\\Grand.Business.Storage.csproj",
+        "projectName": "Grand.Business.Storage",
+        "projectPath": "C:\\Users\\kishore\\source\\repos\\grandnode\\grandnode2\\src\\Business\\Grand.Business.Storage\\Grand.Business.Storage.csproj",
+        "packagesPath": "C:\\Users\\kishore\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\kishore\\source\\repos\\grandnode\\grandnode2\\src\\Business\\Grand.Business.Storage\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\kishore\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\kishore\\source\\repos\\grandnode\\grandnode2\\src\\Business\\Grand.Business.Common\\Grand.Business.Common.csproj": {
+                "projectPath": "C:\\Users\\kishore\\source\\repos\\grandnode\\grandnode2\\src\\Business\\Grand.Business.Common\\Grand.Business.Common.csproj"
+              },
+              "C:\\Users\\kishore\\source\\repos\\grandnode\\grandnode2\\src\\Core\\Grand.Domain\\Grand.Domain.csproj": {
+                "projectPath": "C:\\Users\\kishore\\source\\repos\\grandnode\\grandnode2\\src\\Core\\Grand.Domain\\Grand.Domain.csproj"
+              },
+              "C:\\Users\\kishore\\source\\repos\\grandnode\\grandnode2\\src\\Core\\Grand.Infrastructure\\Grand.Infrastructure.csproj": {
+                "projectPath": "C:\\Users\\kishore\\source\\repos\\grandnode\\grandnode2\\src\\Core\\Grand.Infrastructure\\Grand.Infrastructure.csproj"
+              },
+              "C:\\Users\\kishore\\source\\repos\\grandnode\\grandnode2\\src\\Core\\Grand.SharedKernel\\Grand.SharedKernel.csproj": {
+                "projectPath": "C:\\Users\\kishore\\source\\repos\\grandnode\\grandnode2\\src\\Core\\Grand.SharedKernel\\Grand.SharedKernel.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "AWSSDK.Core": {
+              "target": "Package",
+              "version": "[3.7.3.33, )"
+            },
+            "AWSSDK.S3": {
+              "target": "Package",
+              "version": "[3.7.4, )"
+            },
+            "Azure.Storage.Blobs": {
+              "target": "Package",
+              "version": "[12.10.0, )"
+            },
+            "SkiaSharp": {
+              "target": "Package",
+              "version": "[2.80.3, )"
+            },
+            "SkiaSharp.NativeAssets.Linux.NoDependencies": {
+              "target": "Package",
+              "version": "[2.80.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[5.0.0, 5.0.0]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.403\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\kishore\\source\\repos\\grandnode\\grandnode2\\src\\Business\\Grand.Business.System\\Grand.Business.System.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\kishore\\source\\repos\\grandnode\\grandnode2\\src\\Business\\Grand.Business.System\\Grand.Business.System.csproj",
+        "projectName": "Grand.Business.System",
+        "projectPath": "C:\\Users\\kishore\\source\\repos\\grandnode\\grandnode2\\src\\Business\\Grand.Business.System\\Grand.Business.System.csproj",
+        "packagesPath": "C:\\Users\\kishore\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\kishore\\source\\repos\\grandnode\\grandnode2\\src\\Business\\Grand.Business.System\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\kishore\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\kishore\\source\\repos\\grandnode\\grandnode2\\src\\Business\\Grand.Business.Catalog\\Grand.Business.Catalog.csproj": {
+                "projectPath": "C:\\Users\\kishore\\source\\repos\\grandnode\\grandnode2\\src\\Business\\Grand.Business.Catalog\\Grand.Business.Catalog.csproj"
+              },
+              "C:\\Users\\kishore\\source\\repos\\grandnode\\grandnode2\\src\\Business\\Grand.Business.Checkout\\Grand.Business.Checkout.csproj": {
+                "projectPath": "C:\\Users\\kishore\\source\\repos\\grandnode\\grandnode2\\src\\Business\\Grand.Business.Checkout\\Grand.Business.Checkout.csproj"
+              },
+              "C:\\Users\\kishore\\source\\repos\\grandnode\\grandnode2\\src\\Business\\Grand.Business.Cms\\Grand.Business.Cms.csproj": {
+                "projectPath": "C:\\Users\\kishore\\source\\repos\\grandnode\\grandnode2\\src\\Business\\Grand.Business.Cms\\Grand.Business.Cms.csproj"
+              },
+              "C:\\Users\\kishore\\source\\repos\\grandnode\\grandnode2\\src\\Business\\Grand.Business.Common\\Grand.Business.Common.csproj": {
+                "projectPath": "C:\\Users\\kishore\\source\\repos\\grandnode\\grandnode2\\src\\Business\\Grand.Business.Common\\Grand.Business.Common.csproj"
+              },
+              "C:\\Users\\kishore\\source\\repos\\grandnode\\grandnode2\\src\\Business\\Grand.Business.Customers\\Grand.Business.Customers.csproj": {
+                "projectPath": "C:\\Users\\kishore\\source\\repos\\grandnode\\grandnode2\\src\\Business\\Grand.Business.Customers\\Grand.Business.Customers.csproj"
+              },
+              "C:\\Users\\kishore\\source\\repos\\grandnode\\grandnode2\\src\\Business\\Grand.Business.Marketing\\Grand.Business.Marketing.csproj": {
+                "projectPath": "C:\\Users\\kishore\\source\\repos\\grandnode\\grandnode2\\src\\Business\\Grand.Business.Marketing\\Grand.Business.Marketing.csproj"
+              },
+              "C:\\Users\\kishore\\source\\repos\\grandnode\\grandnode2\\src\\Business\\Grand.Business.Messages\\Grand.Business.Messages.csproj": {
+                "projectPath": "C:\\Users\\kishore\\source\\repos\\grandnode\\grandnode2\\src\\Business\\Grand.Business.Messages\\Grand.Business.Messages.csproj"
+              },
+              "C:\\Users\\kishore\\source\\repos\\grandnode\\grandnode2\\src\\Business\\Grand.Business.Storage\\Grand.Business.Storage.csproj": {
+                "projectPath": "C:\\Users\\kishore\\source\\repos\\grandnode\\grandnode2\\src\\Business\\Grand.Business.Storage\\Grand.Business.Storage.csproj"
+              },
+              "C:\\Users\\kishore\\source\\repos\\grandnode\\grandnode2\\src\\Core\\Grand.Domain\\Grand.Domain.csproj": {
+                "projectPath": "C:\\Users\\kishore\\source\\repos\\grandnode\\grandnode2\\src\\Core\\Grand.Domain\\Grand.Domain.csproj"
+              },
+              "C:\\Users\\kishore\\source\\repos\\grandnode\\grandnode2\\src\\Core\\Grand.Infrastructure\\Grand.Infrastructure.csproj": {
+                "projectPath": "C:\\Users\\kishore\\source\\repos\\grandnode\\grandnode2\\src\\Core\\Grand.Infrastructure\\Grand.Infrastructure.csproj"
+              },
+              "C:\\Users\\kishore\\source\\repos\\grandnode\\grandnode2\\src\\Core\\Grand.SharedKernel\\Grand.SharedKernel.csproj": {
+                "projectPath": "C:\\Users\\kishore\\source\\repos\\grandnode\\grandnode2\\src\\Core\\Grand.SharedKernel\\Grand.SharedKernel.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "NPOI": {
+              "target": "Package",
+              "version": "[2.5.5, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[5.0.0, 5.0.0]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.403\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\kishore\\source\\repos\\grandnode\\grandnode2\\src\\Core\\Grand.Domain\\Grand.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\kishore\\source\\repos\\grandnode\\grandnode2\\src\\Core\\Grand.Domain\\Grand.Domain.csproj",
+        "projectName": "Grand.Domain",
+        "projectPath": "C:\\Users\\kishore\\source\\repos\\grandnode\\grandnode2\\src\\Core\\Grand.Domain\\Grand.Domain.csproj",
+        "packagesPath": "C:\\Users\\kishore\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\kishore\\source\\repos\\grandnode\\grandnode2\\src\\Core\\Grand.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\kishore\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\kishore\\source\\repos\\grandnode\\grandnode2\\src\\Core\\Grand.SharedKernel\\Grand.SharedKernel.csproj": {
+                "projectPath": "C:\\Users\\kishore\\source\\repos\\grandnode\\grandnode2\\src\\Core\\Grand.SharedKernel\\Grand.SharedKernel.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "DotLiquid": {
+              "target": "Package",
+              "version": "[2.2.580, )"
+            },
+            "MongoDB.Bson": {
+              "target": "Package",
+              "version": "[2.13.2, )"
+            },
+            "MongoDB.Driver": {
+              "target": "Package",
+              "version": "[2.13.2, )"
+            },
+            "MongoDB.Driver.Core": {
+              "target": "Package",
+              "version": "[2.13.2, )"
+            },
+            "MongoDB.Driver.GridFS": {
+              "target": "Package",
+              "version": "[2.13.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[5.0.0, 5.0.0]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.403\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\kishore\\source\\repos\\grandnode\\grandnode2\\src\\Core\\Grand.Infrastructure\\Grand.Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\kishore\\source\\repos\\grandnode\\grandnode2\\src\\Core\\Grand.Infrastructure\\Grand.Infrastructure.csproj",
+        "projectName": "Grand.Infrastructure",
+        "projectPath": "C:\\Users\\kishore\\source\\repos\\grandnode\\grandnode2\\src\\Core\\Grand.Infrastructure\\Grand.Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\kishore\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\kishore\\source\\repos\\grandnode\\grandnode2\\src\\Core\\Grand.Infrastructure\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\kishore\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\kishore\\source\\repos\\grandnode\\grandnode2\\src\\Core\\Grand.Domain\\Grand.Domain.csproj": {
+                "projectPath": "C:\\Users\\kishore\\source\\repos\\grandnode\\grandnode2\\src\\Core\\Grand.Domain\\Grand.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[10.1.1, )"
+            },
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[8.1.1, )"
+            },
+            "FluentValidation": {
+              "target": "Package",
+              "version": "[10.3.4, )"
+            },
+            "FluentValidation.AspNetCore": {
+              "target": "Package",
+              "version": "[10.3.4, )"
+            },
+            "GoogleAuthenticator": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "MassTransit.AspNetCore": {
+              "target": "Package",
+              "version": "[7.2.4, )"
+            },
+            "MassTransit.RabbitMQ": {
+              "target": "Package",
+              "version": "[7.2.4, )"
+            },
+            "MediatR": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            },
+            "MediatR.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            },
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[5.0.11, )"
+            },
+            "Microsoft.AspNetCore.Mvc.NewtonsoftJson": {
+              "target": "Package",
+              "version": "[5.0.11, )"
+            },
+            "Microsoft.CodeAnalysis.CSharp": {
+              "target": "Package",
+              "version": "[3.11.0, )"
+            },
+            "Microsoft.CodeAnalysis.CSharp.Scripting": {
+              "target": "Package",
+              "version": "[3.11.0, )"
+            },
+            "Microsoft.Extensions.Caching.Memory": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "Microsoft.Extensions.DependencyInjection": {
+              "target": "Package",
+              "version": "[5.0.2, )"
+            },
+            "Microsoft.Extensions.DependencyModel": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "Serilog.AspNetCore": {
+              "target": "Package",
+              "version": "[4.1.0, )"
+            },
+            "StackExchange.Redis": {
+              "target": "Package",
+              "version": "[2.2.79, )"
+            },
+            "Wkhtmltopdf.NetCore": {
+              "target": "Package",
+              "version": "[3.0.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[5.0.0, 5.0.0]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.403\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\kishore\\source\\repos\\grandnode\\grandnode2\\src\\Core\\Grand.SharedKernel\\Grand.SharedKernel.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\kishore\\source\\repos\\grandnode\\grandnode2\\src\\Core\\Grand.SharedKernel\\Grand.SharedKernel.csproj",
+        "projectName": "Grand.SharedKernel",
+        "projectPath": "C:\\Users\\kishore\\source\\repos\\grandnode\\grandnode2\\src\\Core\\Grand.SharedKernel\\Grand.SharedKernel.csproj",
+        "packagesPath": "C:\\Users\\kishore\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\kishore\\source\\repos\\grandnode\\grandnode2\\src\\Core\\Grand.SharedKernel\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\kishore\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[5.0.0, 5.0.0]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.403\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\kishore\\source\\repos\\grandnode\\grandnode2\\src\\Plugins\\ExchangeRate.McExchange\\ExchangeRate.McExchange.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\kishore\\source\\repos\\grandnode\\grandnode2\\src\\Plugins\\ExchangeRate.McExchange\\ExchangeRate.McExchange.csproj",
+        "projectName": "ExchangeRate.McExchange",
+        "projectPath": "C:\\Users\\kishore\\source\\repos\\grandnode\\grandnode2\\src\\Plugins\\ExchangeRate.McExchange\\ExchangeRate.McExchange.csproj",
+        "packagesPath": "C:\\Users\\kishore\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\kishore\\source\\repos\\grandnode\\grandnode2\\src\\Plugins\\ExchangeRate.McExchange\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\kishore\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\kishore\\source\\repos\\grandnode\\grandnode2\\src\\Business\\Grand.Business.Authentication\\Grand.Business.Authentication.csproj": {
+                "projectPath": "C:\\Users\\kishore\\source\\repos\\grandnode\\grandnode2\\src\\Business\\Grand.Business.Authentication\\Grand.Business.Authentication.csproj"
+              },
+              "C:\\Users\\kishore\\source\\repos\\grandnode\\grandnode2\\src\\Business\\Grand.Business.Catalog\\Grand.Business.Catalog.csproj": {
+                "projectPath": "C:\\Users\\kishore\\source\\repos\\grandnode\\grandnode2\\src\\Business\\Grand.Business.Catalog\\Grand.Business.Catalog.csproj"
+              },
+              "C:\\Users\\kishore\\source\\repos\\grandnode\\grandnode2\\src\\Business\\Grand.Business.Checkout\\Grand.Business.Checkout.csproj": {
+                "projectPath": "C:\\Users\\kishore\\source\\repos\\grandnode\\grandnode2\\src\\Business\\Grand.Business.Checkout\\Grand.Business.Checkout.csproj"
+              },
+              "C:\\Users\\kishore\\source\\repos\\grandnode\\grandnode2\\src\\Business\\Grand.Business.Cms\\Grand.Business.Cms.csproj": {
+                "projectPath": "C:\\Users\\kishore\\source\\repos\\grandnode\\grandnode2\\src\\Business\\Grand.Business.Cms\\Grand.Business.Cms.csproj"
+              },
+              "C:\\Users\\kishore\\source\\repos\\grandnode\\grandnode2\\src\\Business\\Grand.Business.Common\\Grand.Business.Common.csproj": {
+                "projectPath": "C:\\Users\\kishore\\source\\repos\\grandnode\\grandnode2\\src\\Business\\Grand.Business.Common\\Grand.Business.Common.csproj"
+              },
+              "C:\\Users\\kishore\\source\\repos\\grandnode\\grandnode2\\src\\Business\\Grand.Business.Customers\\Grand.Business.Customers.csproj": {
+                "projectPath": "C:\\Users\\kishore\\source\\repos\\grandnode\\grandnode2\\src\\Business\\Grand.Business.Customers\\Grand.Business.Customers.csproj"
+              },
+              "C:\\Users\\kishore\\source\\repos\\grandnode\\grandnode2\\src\\Business\\Grand.Business.Marketing\\Grand.Business.Marketing.csproj": {
+                "projectPath": "C:\\Users\\kishore\\source\\repos\\grandnode\\grandnode2\\src\\Business\\Grand.Business.Marketing\\Grand.Business.Marketing.csproj"
+              },
+              "C:\\Users\\kishore\\source\\repos\\grandnode\\grandnode2\\src\\Business\\Grand.Business.Messages\\Grand.Business.Messages.csproj": {
+                "projectPath": "C:\\Users\\kishore\\source\\repos\\grandnode\\grandnode2\\src\\Business\\Grand.Business.Messages\\Grand.Business.Messages.csproj"
+              },
+              "C:\\Users\\kishore\\source\\repos\\grandnode\\grandnode2\\src\\Business\\Grand.Business.Storage\\Grand.Business.Storage.csproj": {
+                "projectPath": "C:\\Users\\kishore\\source\\repos\\grandnode\\grandnode2\\src\\Business\\Grand.Business.Storage\\Grand.Business.Storage.csproj"
+              },
+              "C:\\Users\\kishore\\source\\repos\\grandnode\\grandnode2\\src\\Business\\Grand.Business.System\\Grand.Business.System.csproj": {
+                "projectPath": "C:\\Users\\kishore\\source\\repos\\grandnode\\grandnode2\\src\\Business\\Grand.Business.System\\Grand.Business.System.csproj"
+              },
+              "C:\\Users\\kishore\\source\\repos\\grandnode\\grandnode2\\src\\Core\\Grand.Domain\\Grand.Domain.csproj": {
+                "projectPath": "C:\\Users\\kishore\\source\\repos\\grandnode\\grandnode2\\src\\Core\\Grand.Domain\\Grand.Domain.csproj"
+              },
+              "C:\\Users\\kishore\\source\\repos\\grandnode\\grandnode2\\src\\Core\\Grand.Infrastructure\\Grand.Infrastructure.csproj": {
+                "projectPath": "C:\\Users\\kishore\\source\\repos\\grandnode\\grandnode2\\src\\Core\\Grand.Infrastructure\\Grand.Infrastructure.csproj"
+              },
+              "C:\\Users\\kishore\\source\\repos\\grandnode\\grandnode2\\src\\Core\\Grand.SharedKernel\\Grand.SharedKernel.csproj": {
+                "projectPath": "C:\\Users\\kishore\\source\\repos\\grandnode\\grandnode2\\src\\Core\\Grand.SharedKernel\\Grand.SharedKernel.csproj"
+              },
+              "C:\\Users\\kishore\\source\\repos\\grandnode\\grandnode2\\src\\Web\\Grand.Web.Common\\Grand.Web.Common.csproj": {
+                "projectPath": "C:\\Users\\kishore\\source\\repos\\grandnode\\grandnode2\\src\\Web\\Grand.Web.Common\\Grand.Web.Common.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[5.0.0, 5.0.0]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.403\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\kishore\\source\\repos\\grandnode\\grandnode2\\src\\Web\\Grand.Web.Common\\Grand.Web.Common.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\kishore\\source\\repos\\grandnode\\grandnode2\\src\\Web\\Grand.Web.Common\\Grand.Web.Common.csproj",
+        "projectName": "Grand.Web.Common",
+        "projectPath": "C:\\Users\\kishore\\source\\repos\\grandnode\\grandnode2\\src\\Web\\Grand.Web.Common\\Grand.Web.Common.csproj",
+        "packagesPath": "C:\\Users\\kishore\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\kishore\\source\\repos\\grandnode\\grandnode2\\src\\Web\\Grand.Web.Common\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\kishore\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\kishore\\source\\repos\\grandnode\\grandnode2\\src\\Business\\Grand.Business.Authentication\\Grand.Business.Authentication.csproj": {
+                "projectPath": "C:\\Users\\kishore\\source\\repos\\grandnode\\grandnode2\\src\\Business\\Grand.Business.Authentication\\Grand.Business.Authentication.csproj"
+              },
+              "C:\\Users\\kishore\\source\\repos\\grandnode\\grandnode2\\src\\Business\\Grand.Business.Cms\\Grand.Business.Cms.csproj": {
+                "projectPath": "C:\\Users\\kishore\\source\\repos\\grandnode\\grandnode2\\src\\Business\\Grand.Business.Cms\\Grand.Business.Cms.csproj"
+              },
+              "C:\\Users\\kishore\\source\\repos\\grandnode\\grandnode2\\src\\Business\\Grand.Business.Common\\Grand.Business.Common.csproj": {
+                "projectPath": "C:\\Users\\kishore\\source\\repos\\grandnode\\grandnode2\\src\\Business\\Grand.Business.Common\\Grand.Business.Common.csproj"
+              },
+              "C:\\Users\\kishore\\source\\repos\\grandnode\\grandnode2\\src\\Business\\Grand.Business.Customers\\Grand.Business.Customers.csproj": {
+                "projectPath": "C:\\Users\\kishore\\source\\repos\\grandnode\\grandnode2\\src\\Business\\Grand.Business.Customers\\Grand.Business.Customers.csproj"
+              },
+              "C:\\Users\\kishore\\source\\repos\\grandnode\\grandnode2\\src\\Business\\Grand.Business.Storage\\Grand.Business.Storage.csproj": {
+                "projectPath": "C:\\Users\\kishore\\source\\repos\\grandnode\\grandnode2\\src\\Business\\Grand.Business.Storage\\Grand.Business.Storage.csproj"
+              },
+              "C:\\Users\\kishore\\source\\repos\\grandnode\\grandnode2\\src\\Business\\Grand.Business.System\\Grand.Business.System.csproj": {
+                "projectPath": "C:\\Users\\kishore\\source\\repos\\grandnode\\grandnode2\\src\\Business\\Grand.Business.System\\Grand.Business.System.csproj"
+              },
+              "C:\\Users\\kishore\\source\\repos\\grandnode\\grandnode2\\src\\Core\\Grand.Infrastructure\\Grand.Infrastructure.csproj": {
+                "projectPath": "C:\\Users\\kishore\\source\\repos\\grandnode\\grandnode2\\src\\Core\\Grand.Infrastructure\\Grand.Infrastructure.csproj"
+              },
+              "C:\\Users\\kishore\\source\\repos\\grandnode\\grandnode2\\src\\Core\\Grand.SharedKernel\\Grand.SharedKernel.csproj": {
+                "projectPath": "C:\\Users\\kishore\\source\\repos\\grandnode\\grandnode2\\src\\Core\\Grand.SharedKernel\\Grand.SharedKernel.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "AspNetCore.HealthChecks.MongoDb": {
+              "target": "Package",
+              "version": "[5.0.1, )"
+            },
+            "Microsoft.AspNetCore.DataProtection.StackExchangeRedis": {
+              "target": "Package",
+              "version": "[5.0.11, )"
+            },
+            "Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation": {
+              "target": "Package",
+              "version": "[5.0.11, )"
+            },
+            "MiniProfiler.AspNetCore.Mvc": {
+              "target": "Package",
+              "version": "[4.2.22, )"
+            },
+            "NetEscapades.AspNetCore.SecurityHeaders": {
+              "target": "Package",
+              "version": "[0.16.0, )"
+            },
+            "System.IO.FileSystem.AccessControl": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "Wangkanai.Detection": {
+              "target": "Package",
+              "version": "[3.0.0, )"
+            },
+            "WebEssentials.AspNetCore.PWA": {
+              "target": "Package",
+              "version": "[1.0.65, )"
+            },
+            "WebMarkupMin.AspNetCore5": {
+              "target": "Package",
+              "version": "[2.10.0, )"
+            },
+            "WebMarkupMin.Core": {
+              "target": "Package",
+              "version": "[2.9.0, )"
+            },
+            "WebMarkupMin.NUglify": {
+              "target": "Package",
+              "version": "[2.10.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[5.0.0, 5.0.0]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.403\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

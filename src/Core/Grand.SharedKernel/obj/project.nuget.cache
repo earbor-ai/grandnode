@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "62MggjJNjPxpFdIfYmCqoAgG+JsEZFm7q3nFjWa+WcCMsujO9G8tBX83d+cJcyXvB7pYu9DuUy1vVO4k7U40Fw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\kishore\\source\\repos\\grandnode\\grandnode2\\src\\Core\\Grand.SharedKernel\\Grand.SharedKernel.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kishore\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
